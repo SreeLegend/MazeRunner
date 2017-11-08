@@ -1,0 +1,23 @@
+name: MazeRunner
+version: 1.0
+author: JaySN
+main: com.jartexnetwork.jaysn.MainClass
+softdepends: [TTA]
+website: http://jartexnetwork.com
+commands:
+      gamestop:
+          description: Stop the game
+          usage: /gamestop
+
+      setlobbyspawn:
+          description: Set the spawn area for lobby
+          usage: /setlobbyspawn
+      shop:
+          description: Buy upgrades to dominate the game
+          usage: /shop
+
+
+permissions:
+      mazerunner.admin:
+           description: gives OP commands
+           default: op

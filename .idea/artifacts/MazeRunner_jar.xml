@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MazeRunner:jar">
+    <output-path>$USER_HOME$/Desktop/mods/Online/Server Folder/plugins</output-path>
+    <root id="archive" name="MazeRunner.jar">
+      <element id="module-output" name="MazeRunner" />
+    </root>
+  </artifact>
+</component>
